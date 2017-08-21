@@ -1,0 +1,11 @@
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.csprojResolveAssemblyReference.cache
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.Interfaces.ChildForm.resources
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.Interfaces.ConsoleForm.resources
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.MainForm.resources
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.Properties.Resources.resources
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.csproj.GenerateResource.Cache
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\bin\Debug\BioBot.exe.config
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\bin\Debug\BioBot.exe
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\bin\Debug\BioBot.pdb
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.exe
+C:\Users\Olivier\Documents\Visual Studio 2017\Projects\BioBot\BioBot\obj\Debug\BioBot.pdb
